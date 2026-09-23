@@ -21,6 +21,18 @@ The project demonstrates an end-to-end analyst workflow using Python: data clean
 - Seaborn
 - Jupyter Notebook
 
+## Key Findings
+
+- **$3.0M in total revenue** at a **15.3% profit margin** across 15,000+ transactions
+- **Electronics drives ~49% of sales**, while **Office Supplies is unprofitable**
+- Higher discounts cut into profit margin, a trade-off that flags pricing-review candidates
+
+![Revenue by Category](images/category_revenue.png)
+![Monthly Revenue](images/monthly_revenue.png)
+![Regional Profit](images/regional_profit.png)
+![Discount vs Profit Margin](images/discount_profit_margin.png)
+
+
 ## Dataset
 The dataset contains 15,000+ e-commerce transactions across:
 - 2024-01-01 to 2025-06-30
